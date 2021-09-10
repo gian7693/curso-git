@@ -8,10 +8,7 @@ namespace Course
     {
         static void Main(string[] args)
         {
-            double preco = 100;
-            double desconto = (preco < 20) ? preco * 0.10 : preco * 0.05;
-
-           Console.WriteLine(desconto);
+            Console.WriteLine("Hello World!");
         }
     }
 }
