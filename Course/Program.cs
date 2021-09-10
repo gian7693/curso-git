@@ -10,6 +10,7 @@ namespace Course
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Ola Mundo");
+            Console.WriteLine("GITHUB");
         }
     }
 }
